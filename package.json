@@ -2,7 +2,7 @@
   "name": "angular-carousel-pt",
   "description": "Angular Carousel - Mobile friendly touch carousel for AngularJS",
   "main": "dist/angular-carousel.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "https://github.com/gyerzh/angular-carousel",
   "author": "p <patyatka@gmail.com>",
   "repository": {
